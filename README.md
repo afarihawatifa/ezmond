@@ -1,0 +1,2 @@
+# ezmond
+its just website
